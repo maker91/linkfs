@@ -8,6 +8,8 @@ export const props = [
     'W_OK',
     'X_OK',
     'Stats',
+    'WriteStream',
+    'ReadStream',
 ];
 
 export const rewritableMethods = [
